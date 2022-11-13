@@ -1,0 +1,29 @@
+[
+    {
+        "link": "https://example.com",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
+        "image": {
+            "src": "publication.jpg",
+            "alt": "My publication"
+        }
+    },
+    {
+        "link": "https://example.com",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
+        "image": {
+            "src": "publication.jpg",
+            "alt": "My publication"
+        }
+    },
+    {
+        "link": "https://example.com",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
+        "image": {
+            "src": "publication.jpg",
+            "alt": "My publication"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+        {
+            "icon": "globe1.png",
+            "description": "10.2K",
+            "sub": "Edits"
+        },
+        {
+            "icon": "stack.png",
+            "description": "430",
+            "sub": "Answers"
+        },
+        {
+            "icon": "git.png",
+            "description": "34",
+            "sub": "Stars"
+        },
+        {
+            "icon": "reddit.png",
+            "description": "1.3K",
+            "sub": "Karma"
+        }
+    ]
