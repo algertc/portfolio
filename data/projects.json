@@ -1,8 +1,8 @@
 [
     {
         "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
+        "title": "LinkedIn",
+        "description": "Professional Background",
         "image": {
             "src": "linked.jpg",
             "alt": "My project"
@@ -10,8 +10,17 @@
     },
     {
         "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
+        "title": "Github",
+        "description": "All open source projects",
+        "image": {
+            "src": "https://charliealgert.com/static/media/github.5986b613ab3522a766c5.png",
+            "alt": "My project"
+        }
+    },
+    {
+        "link": "https://example.com",
+        "title": "LinkedIn",
+        "description": "Professional Background",
         "image": {
             "src": "linked.jpg",
             "alt": "My project"
@@ -19,8 +28,17 @@
     },
     {
         "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
+        "title": "Github",
+        "description": "All open source projects",
+        "image": {
+            "src": "https://charliealgert.com/static/media/github.5986b613ab3522a766c5.png",
+            "alt": "My project"
+        }
+    },
+    {
+        "link": "https://example.com",
+        "title": "LinkedIn",
+        "description": "Professional Background",
         "image": {
             "src": "linked.jpg",
             "alt": "My project"
@@ -28,28 +46,10 @@
     },
     {
         "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
+        "title": "Github",
+        "description": "All open source projects",
         "image": {
-            "src": "linked.jpg",
-            "alt": "My project"
-        }
-    },
-    {
-        "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
-        "image": {
-            "src": "linked.jpg",
-            "alt": "My project"
-        }
-    },
-    {
-        "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
-        "image": {
-            "src": "linked.jpg",
+            "src": "https://charliealgert.com/static/media/github.5986b613ab3522a766c5.png",
             "alt": "My project"
         }
     }
