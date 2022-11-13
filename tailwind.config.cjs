@@ -15,7 +15,8 @@ module.exports = withAnimation({
         extend: {
             fontFamily: {
                 sans: ['Eloquia', ...defaultTheme.fontFamily.sans],
-                sub: ['SourceSansPro-Regular']
+                anybody: ['Anybody', 'sans-serif'],
+                mono: ['JetBrainsMonoNL-Bold', 'mono'] 
             },
             container: {
                 center: true,

@@ -14,7 +14,7 @@ export default function App() {
       <Hero />
       <Stats />
       <Projects />
-      {/* <Publications /> */}
+      <Publications />
       <Footer />
     </>
   );

@@ -5,7 +5,7 @@ import Title from '../common/Title'
 
 export default function Publications() {
     return (
-        <section className="py-20 md:py-24 mx-0">
+        <section className="py-10 md:py-15 mx-0">
             <div className="container">
                 <Title as="h3">Publications</Title>
                 <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mx-0">

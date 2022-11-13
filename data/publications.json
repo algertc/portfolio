@@ -1,28 +1,10 @@
 [
     {
-        "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
+        "link": "https://research.charliealgert.com/whitepapers/Acquisition_and_Discrimination_of_Language_in_Simultaneous_Bilingual_Infants.pdf",
+        "title": "Acquisition and Discrimination of Language in Simultaneous-Bilingual Infants",
+        "description": "",
         "image": {
-            "src": "publication.jpg",
-            "alt": "My publication"
-        }
-    },
-    {
-        "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
-        "image": {
-            "src": "publication.jpg",
-            "alt": "My publication"
-        }
-    },
-    {
-        "link": "https://example.com",
-        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, tempora.",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos molestias perspiciatis atque totam itaque sunt distinctio tempore illo labore inventore.",
-        "image": {
-            "src": "publication.jpg",
+            "src": "publication.png",
             "alt": "My publication"
         }
     }
