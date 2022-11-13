@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import ProjectCard from "../common/ProjectCard";
+import Animate from '../common/Animate'
 
 export default function Projects() {
   const [projects, setProjects] = useState([]);
@@ -25,12 +26,14 @@ export default function Projects() {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects &&
             projects.map((project, i) => (
+              <Animate key={i} animateDelay={i * 100}>
               <ProjectCard
                 link={project.link}
                 title={project.title}
                 description={project.description}
                 image={{ src: project.image.src, alt: project.image.alt }}
               />
+              </Animate>
             ))}
         </div>
       </div>

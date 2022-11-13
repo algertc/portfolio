@@ -1,56 +1,74 @@
 [
     {
-        "link": "https://example.com",
-        "title": "LinkedIn",
+        "link": "https://linkedin.com/in/charliealgert",
+        "title": "Linkedin",
         "description": "Professional Background",
         "image": {
             "src": "linked.jpg",
-            "alt": "My project"
+            "alt": "Linkedin"
         }
     },
     {
-        "link": "https://example.com",
+        "link": "https://github.com/algertc",
         "title": "Github",
-        "description": "All open source projects",
+        "description": "All my open-source projects",
         "image": {
-            "src": "https://charliealgert.com/static/media/github.5986b613ab3522a766c5.png",
-            "alt": "My project"
+            "src": "github.png",
+            "alt": "github"
         }
     },
     {
-        "link": "https://example.com",
-        "title": "LinkedIn",
-        "description": "Professional Background",
+        "link": "https://www.polygence.org/scholars/charlie-algert",
+        "title": "Research",
+        "description": "Polygence Scholar Profile",
         "image": {
-            "src": "linked.jpg",
-            "alt": "My project"
+            "src": "polygence.png",
+            "alt": "Polygence"
         }
     },
     {
-        "link": "https://example.com",
-        "title": "Github",
-        "description": "All open source projects",
+        "link": "https://metrics.torproject.org/rs.html#details/5D410EB085D4A8FBA22305FBA8DC19B71D9387FC",
+        "title": "Tor Atlas",
+        "description": "View My Relay Stats",
         "image": {
-            "src": "https://charliealgert.com/static/media/github.5986b613ab3522a766c5.png",
-            "alt": "My project"
+            "src": "tor.png",
+            "alt": "Tor"
         }
     },
     {
-        "link": "https://example.com",
-        "title": "LinkedIn",
-        "description": "Professional Background",
+        "link": "https://shockpointmedia.com",
+        "title": "Shockpoint",
+        "description": "Check Out The Website",
         "image": {
-            "src": "linked.jpg",
-            "alt": "My project"
+            "src": "shockpoint.png",
+            "alt": "Shockpoint"
         }
     },
     {
-        "link": "https://example.com",
-        "title": "Github",
-        "description": "All open source projects",
+        "link": "https://medium.com/@charliealgert",
+        "title": "Medium Author",
+        "description": "View My Articles",
         "image": {
-            "src": "https://charliealgert.com/static/media/github.5986b613ab3522a766c5.png",
-            "alt": "My project"
+            "src": "medium.png",
+            "alt": "medium"
+        }
+    },
+        {
+        "link": "https://www.kaggle.com/charliealgert",
+        "title": "Kaggle",
+        "description": "View My Notebooks",
+        "image": {
+            "src": "kaggle.png",
+            "alt": "kaggle"
+        }
+    },
+    {
+        "link": "https://www.academia.edu/88081772/Acquisition_and_Discrimination_of_Language_in_Simultaneous_Bilingual_Infants",
+        "title": "Academia",
+        "description": "View My Publications",
+        "image": {
+            "src": "academia.png",
+            "alt": "academia"
         }
     }
 ]

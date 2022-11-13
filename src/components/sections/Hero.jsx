@@ -13,7 +13,7 @@ export default function Hero() {
                 </div>
                 <div>
                     <h1 className="text-4xl text-center lg:text-left font-extrabold mb-8 lg:mb-16">
-                        Hi 👋 I am{' '}
+                        Hi 👋 I'm{'  '}
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-magenta-300 to-magenta-800">
                             Charlie
                         </span>

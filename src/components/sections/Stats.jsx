@@ -32,7 +32,7 @@ export default function Stats() {
                             <Statcard
                                 icon="ccna.png"
                                 description="Associate"
-                                sub="Cisco"
+                                sub="In Progress"
                             />
                         </Animate>
                 </div>

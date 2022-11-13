@@ -10,7 +10,7 @@ export default function Statcard({icon, description, sub, ...props }) {
                 />
                 </div>
             <div className="p-3 text-center mb-12 bg-black-100">
-                    <h1 className="text-3xl w-full text-transparent bg-clip-text font-extrabold bg-gradient-to-r from-m2-100/100 to-m2-200/100 via-pink-500 animate-gradient-x p-2">{description}</h1>
+                    <h1 className="text-3xl w-full text-transparent bg-clip-text font-extrabold bg-m2-200">{description}</h1>
                     <p className="font-display text-sm w-full text-center">{sub}</p>
                 </div>
             </div>
