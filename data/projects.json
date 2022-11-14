@@ -70,5 +70,15 @@
             "src": "academia.png",
             "alt": "academia"
         }
+    },
+    {
+        "link": "https://www.qrz.com/db/K6DBO/",
+        "title": "QRZ",
+        "description": "View My Logs",
+        "image": {
+            "src": "qrz.png",
+            "alt": "qrz"
+        }
     }
 ]
+
