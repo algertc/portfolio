@@ -16,7 +16,7 @@ module.exports = withAnimation({
             fontFamily: {
                 sans: ['Eloquia', ...defaultTheme.fontFamily.sans],
                 anybody: ['Anybody', 'sans-serif'],
-                mono: ['JetBrainsMonoNL-Bold', 'mono'] 
+                mono: ['JetBrainsMonoNL-Bold', ...defaultTheme.fontFamily.mono] 
             },
             container: {
                 center: true,
@@ -50,7 +50,10 @@ module.exports = withAnimation({
                 blink: 'blink 0.5s step-end infinite alternate',
                 "gradient-x":'gradient-x 5s ease infinite',
                 "gradient-y":'gradient-y 5s ease infinite',
-                "gradient-xy":'gradient-xy 5s ease infinite'
+                "gradient-xy":'gradient-xy 5s ease infinite',
+                cursor: 'cursor .6s linear infinite alternate',
+                typing: 'typing 1.8s ease-out .8s 1 normal both',
+                'type-reverse': 'type 1.8s ease-out 0s infinite alternate-reverse both',
             },
             keyframes: {
                 blink: {
@@ -89,7 +92,15 @@ module.exports = withAnimation({
                     '50%': {
                         'background-size':'200% 200%',
                         'background-position': 'right center'
-            }
+                    }
+                },
+                typing: {
+                    '0%' : {
+                        width : '0'
+                    },
+                    '100%' : {
+                        width : '100'
+                    }
                 }}
         }
     },

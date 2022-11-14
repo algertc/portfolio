@@ -7,6 +7,7 @@ export default function Footer() {
                 Source For This Page Can Be Found on My{' '}
                 <a
                     href={footer.githubLink}
+                    target="_blank"
                     className="transition-colors text-magenta-300 hover:text-magenta-500"
                 >
                     GitHub!

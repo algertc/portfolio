@@ -8,7 +8,7 @@ export default function Stats() {
         <section className="px-10">
             <div className="container">
                 <Title as="h3"></Title>
-                <div className="grid md:grid-cols-2 lg:grid-cols-4 sm:grid-cols-2 gap-8 flex justify-center items-center">
+                <div className="grid md:grid-cols-2 lg:grid-cols-4 grid-cols-2 gap-8 flex justify-center items-center">
                     {stats.map((stat, i) => (
                         <Animate key={i} animateDelay={i * 100}>
                             <Statcard
@@ -20,12 +20,13 @@ export default function Stats() {
                         </Animate>
                     ))}
                 </div>
-                <div className="grid md:grid-cols-2 lg:grid-cols-2 sm:grid-cols-2 gap-8 flex justify-center items-center lg:px-40">
+                <div className="grid md:grid-cols-2 lg:grid-cols-2 grid-cols-2 gap-8 flex justify-center items-center lg:px-40">
                     <Animate animateDelay={100}>
                             <Statcard
                                 icon="fcc2.png"
                                 description="Technician"
                                 sub="FCC"
+                                className="text-1xl"
                             />
                         </Animate>
                         <Animate animateDelay={200}>

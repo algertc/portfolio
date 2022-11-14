@@ -8,9 +8,9 @@
     src: "eloquia.otf";
 }
 @font-face {
-    font-family: Anybody;
-    font-weight: 400;
-    src: "Anybody-SemiBold.ttf";
+    font-family: mono;
+    font-weight: bold;
+    src: "JetBrainsMonoNL-Bold.ttf";
 }
 .project-card{
     padding: 15px 10px 15px 10px;

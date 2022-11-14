@@ -16,6 +16,7 @@ export default function Header() {
                     <li>
                         <a
                             href={socialLinks.linkedIn}
+                            target="_blank"
                             className="transition-colors hover:text-magenta-500"
                         >
                             <BsLinkedin />
@@ -24,6 +25,7 @@ export default function Header() {
                     <li>
                         <a
                             href={socialLinks.publicKeyLink}
+                            target="_blank"
                             className="transition-colors hover:text-magenta-500"
                         >
                             <GiHouseKeys />
@@ -32,6 +34,7 @@ export default function Header() {
                     <li>
                         <a
                             href={socialLinks.anchorLink}
+                            target="_blank"
                             className="transition-colors hover:text-magenta-500"
                         >
                             <HiLink />
