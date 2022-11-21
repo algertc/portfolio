@@ -4,7 +4,7 @@ import Typical from 'react-typical'
 
 export default function Hero() {
     return (
-        <section className="py-5 lg:py-6 md:py-15 xl:py-2">
+        <section className="py-5 lg:py-6 md:py-15 xl:py-2 lg:pr-[3.35rem]">
             <div className="container grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 items-center gap-4 md:gap-32 lg:gap-24 xl:gap-16">
                 <div>
                     <img
