@@ -11,7 +11,7 @@ module.exports = withAnimation({
             md: '768px',
             lg: '1024px',
             xl: '1536px',
-            xxl:'2400px'
+            xxl:'2200px'
         },
         extend: {
             fontFamily: {
