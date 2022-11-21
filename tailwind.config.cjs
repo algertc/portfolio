@@ -10,8 +10,8 @@ module.exports = withAnimation({
             sm: '640px',
             md: '768px',
             lg: '1024px',
-            xl: '2200px',
-            xxl:'2400px'
+            xl: '1536px',
+            xxl:'2200px'
         },
         extend: {
             fontFamily: {
