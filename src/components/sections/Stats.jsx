@@ -5,7 +5,7 @@ import Title from '../common/Title'
 
 export default function Stats() {
     return (
-        <section className="px-10 xxl:pt-[3rem] xxl:max-w-[140rem] xxl:ml-[9.5rem] xxl:mb-40">
+        <section className="px-10 xxl:pt-[3rem] xl:px-[12rem] xl:pb-36 xl:pt-20 xl:scale-[1.2] xxl:max-w-[140rem] xxl:ml-[9.5rem] xxl:mb-40">
             <div className="container">
                 <Title as="h3"></Title>
                 <div className="grid md:grid-cols-2 lg:grid-cols-4 grid-cols-2 gap-8 xxl:gap-0 xxl:grid-cols-4 flex justify-center items-center">

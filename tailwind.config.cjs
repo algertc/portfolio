@@ -10,12 +10,12 @@ module.exports = withAnimation({
             'sm': '640px',
             'md': '768px',
             'lg': '1024px',
-            'xl': '1500px',
+            'xl': '2000px',
             '2xl': '5000px'
         },
         extend: {
             screens: {
-                xxl:'2500px'
+                xxl:'2900px'
             },
             fontFamily: {
                 sans: ['Eloquia', ...defaultTheme.fontFamily.sans],
