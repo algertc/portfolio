@@ -12,7 +12,7 @@ export default function Card({ link, title, description, image, ...props }) {
                 <a
                     href={link}
                     target="_blank"
-                    className="text-1xl font-bold transition-colors group-hover:text-neutral-100"
+                    className="text-1xl xxl:text-3xl font-bold xxl:font-[700] transition-colors group-hover:text-neutral-100"
                 >
                     <p className="tracking-tight mb-1">{title}</p>
                 </a>
