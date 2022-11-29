@@ -1,0 +1,12 @@
+All static data is stored in `data` directory. For favicon of site should named favicon.ico in `public` directory.
+
+1. Install Dependencies: yarn
+
+2. Start in Development: yarn dev
+
+3. Build the project: yarn build
+   Start Production code with nodejs server: yarn start
+
+4. Export static data `.next` to `out` for use with web server: yarn export
+
+   Then you can deploy your out folder or use it with apache or nginx server

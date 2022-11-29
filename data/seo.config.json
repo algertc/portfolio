@@ -1,0 +1,18 @@
+{
+    "defaultSeo": {
+        "title": "Charlie's Portfolio",
+        "description": "Charlie Algert Media Portfolio Link Library and Publications built with React.js",
+        "canonical": "http://charliealgert.com"
+    },
+    "socialProfileJsonLd": {
+        "type": "Person",
+        "name": "Charlie Algert",
+        "url": "http://charliealgert.com",
+        "image": "http://charliealgert.com/Portrait.png",
+        "sameAs": [
+            "http://charliealgert.com",
+            "http://linkedin.com/in/charliealgert",
+            "http://github.com/algertc"
+        ]
+    }
+}
