@@ -1,4 +1,4 @@
-import stats from '../../../data/stats.json'
+import stats from '../../data/stats.json'
 import Animate from '../common/Animate'
 import Statcard from '../common/Statcard'
 import Title from '../common/Title'
@@ -22,20 +22,16 @@ export default function Stats() {
                 </div>
                 <div className="grid md:grid-cols-2 lg:grid-cols-2 grid-cols-2 gap-8 xxl:gap-0 xxl:max-w-[87rem] xxl:ml-[23rem] flex justify-center items-center lg:px-40">
                     <Animate animateDelay={100}>
-                            <Statcard
-                                icon="fcc2.png"
-                                description="Technician"
-                                sub="FCC"
-                                className="text-1xl"
-                            />
-                        </Animate>
-                        <Animate animateDelay={200}>
-                            <Statcard
-                                icon="ccna.png"
-                                description="Associate"
-                                sub="In Progress"
-                            />
-                        </Animate>
+                        <Statcard
+                            icon="fcc2.png"
+                            description="Technician"
+                            sub="FCC"
+                            className="text-1xl"
+                        />
+                    </Animate>
+                    <Animate animateDelay={200}>
+                        <Statcard icon="ccna.png" description="Associate" sub="In Progress" />
+                    </Animate>
                 </div>
             </div>
         </section>

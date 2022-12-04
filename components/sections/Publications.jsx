@@ -1,4 +1,4 @@
-import publications from '../../../data/publications.json'
+import publications from '../../data/publications.json'
 import Animate from '../common/Animate'
 import Card from '../common/Card'
 import Title from '../common/Title'
