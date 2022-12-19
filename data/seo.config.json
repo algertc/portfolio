@@ -2,7 +2,30 @@
     "defaultSeo": {
         "title": "Charlie Algert | Personal Website",
         "description": "Charlie Algert Media Portfolio Link Library and Publications built with React.js",
-        "canonical": "http://charliealgert.com"
+        "canonical": "http://charliealgert.com",
+
+        "openGraph": {
+            "title": "Charlie Algert | Personal Website",
+            "description":
+                "Charlie Algert's Personal Website and Portfolio ",
+                "url": "https:/charliealgert.com",
+                "type": "profile",
+                "profile": {
+                "firstName": "Charlie",
+                "lastName": "Algert",
+                "username": "algertc",
+                "gender": "male"
+            },
+            "images": [
+                {
+                    "url": "https://charliealgert.com/avatar.webp",
+                    "width": "360",
+                    "height": "360",
+                    "alt": "Charlie Algert"
+                }
+            ]
+        }
+
     },
     "socialProfileJsonLd": {
         "type": "Person",
