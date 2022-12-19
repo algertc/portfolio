@@ -4,7 +4,7 @@ export default function Document() {
     return (
         <Html lang="en">
             <Head />
-            <script defer data-domain="analytics.charliealgert.com" src="http://analytics.charliealgert.com/js/script.js"></script>
+            <script defer data-domain="analytics.charliealgert.com" src="https://analytics.charliealgert.com/js/script.js"></script>
             <body className="bg-black text-neutral-300">
                 <Main />
                 <NextScript />
