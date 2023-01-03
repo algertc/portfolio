@@ -4,7 +4,7 @@
         "title": "Linkedin",
         "description": "Professional Background",
         "image": {
-            "src": "linked.jpg",
+            "src": "/linked.jpg",
             "alt": "Linkedin"
         }
     },
@@ -13,7 +13,7 @@
         "title": "Github",
         "description": "All my open-source projects",
         "image": {
-            "src": "github.png",
+            "src": "/github.png",
             "alt": "github"
         }
     },
@@ -22,7 +22,7 @@
         "title": "Research",
         "description": "Polygence Scholar Profile",
         "image": {
-            "src": "polygence.png",
+            "src": "/polygence.png",
             "alt": "Polygence"
         }
     },
@@ -31,7 +31,7 @@
         "title": "Tor Atlas",
         "description": "View My Relay Stats",
         "image": {
-            "src": "tor.png",
+            "src": "/tor.png",
             "alt": "Tor"
         }
     },
@@ -40,7 +40,7 @@
         "title": "Shockpoint",
         "description": "Check Out The Website",
         "image": {
-            "src": "shockpoint.png",
+            "src": "/shockpoint.png",
             "alt": "Shockpoint"
         }
     },
@@ -49,16 +49,16 @@
         "title": "Medium Author",
         "description": "View My Articles",
         "image": {
-            "src": "medium.png",
+            "src": "/medium.png",
             "alt": "medium"
         }
     },
-        {
+    {
         "link": "https://www.kaggle.com/charliealgert",
         "title": "Kaggle",
         "description": "View My Notebooks",
         "image": {
-            "src": "kaggle.png",
+            "src": "/kaggle.png",
             "alt": "kaggle"
         }
     },
@@ -67,7 +67,7 @@
         "title": "Academia",
         "description": "View My Publications",
         "image": {
-            "src": "academia.png",
+            "src": "/academia.png",
             "alt": "academia"
         }
     },
@@ -76,9 +76,8 @@
         "title": "QRZ",
         "description": "View My Logs",
         "image": {
-            "src": "qrz.png",
+            "src": "/qrz.png",
             "alt": "qrz"
         }
     }
 ]
-

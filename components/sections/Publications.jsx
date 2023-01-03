@@ -7,7 +7,7 @@ export default function Publications() {
     return (
         <section className="py-10 xl:py-24 md:py-15 mx-0 xl:ml-0">
             <div className="container">
-                <Title as="h3">Publications</Title>
+                <Title as="h2">Publications</Title>
                 <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mx-0">
                     {publications.map((publication, i) => (
                         <Animate key={i} animateDelay={i * 100}>

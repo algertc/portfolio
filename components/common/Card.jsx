@@ -1,10 +1,19 @@
+import Image from 'next/image'
+
 export default function Card({ link, title, description, image, ...props }) {
     return (
-        <div className="max-w-[330px] md:max-w-none mx-auto rounded-lg overflow-hidden group" {...props}>
-            <div className="overflow-hidden">
-                <img
+        <div
+            className="max-w-[330px] md:max-w-none mx-auto rounded-lg overflow-hidden group"
+            {...props}
+        >
+            <div>
+                <Image
                     src={image.src}
                     alt={image.alt}
+                    width={1000}
+                    height={1000}
+                    quality={100}
+                    layout="responsive"
                     className="w-full h-full transition-transform duration-150 group-hover:scale-105"
                 />
             </div>

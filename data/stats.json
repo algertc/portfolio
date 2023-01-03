@@ -1,22 +1,32 @@
 [
-        {
-            "icon": "globe1.png",
-            "description": "2.2K",
-            "sub": "Edits"
-        },
-        {
-            "icon": "stack.png",
-            "description": "52",
-            "sub": "Answers"
-        },
-        {
-            "icon": "git.png",
-            "description": "34",
-            "sub": "Stars"
-        },
-        {
-            "icon": "reddit.png",
-            "description": "1.3K",
-            "sub": "Karma"
-        }
-    ]
+    {
+        "icon": "/globe1.png",
+        "description": "2.2K",
+        "sub": "Edits"
+    },
+    {
+        "icon": "/stack.png",
+        "description": "52",
+        "sub": "Answers"
+    },
+    {
+        "icon": "/git.png",
+        "description": "34",
+        "sub": "Stars"
+    },
+    {
+        "icon": "/reddit.png",
+        "description": "1.3K",
+        "sub": "Karma"
+    },
+    {
+        "icon": "/fcc2.png",
+        "description": "Technician",
+        "sub": "FCC"
+    },
+    {
+        "icon": "/ccna.png",
+        "description": "Associate",
+        "sub": "In Progress"
+    }
+]

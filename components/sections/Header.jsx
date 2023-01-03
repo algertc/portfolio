@@ -6,7 +6,7 @@ import { BsLinkedin } from 'react-icons/bs'
 export default function Header() {
     return (
         <header className="my-4 xxl:my-7 xl:mt-8 xl:mb-0">
-            <nav className="mx-5 lg:mx-8 xl:mx-12 xxl:mx-12 grid grid-cols-2 text-lg font-bold">
+            <nav className="mx-5 lg:mx-8 xl:mx-12 xxl:mx-12 grid grid-cols-2 text-lg font-bold overflow-x-hidden">
                 <div className="flex active:border-red-500">
                     <span className="font-extrabold xxl:font-bold xl:my-1 xl:font-bold xl:text-[49px] xxl:text-[55px] xxl:mt-[0.7rem] xl:pt-[-20] text-[30px] leading-[28px]">
                         ~/
@@ -19,6 +19,7 @@ export default function Header() {
                         <a
                             href={socialLinks.linkedIn}
                             target="_blank"
+                            aria-label="LinkedIn"
                             className="transition-colors hover:text-magenta-500"
                         >
                             <BsLinkedin />
@@ -28,6 +29,7 @@ export default function Header() {
                         <a
                             href={socialLinks.publicKeyLink}
                             target="_blank"
+                            aria-label="Public Key"
                             className="transition-colors hover:text-magenta-500"
                         >
                             <GiHouseKeys />
@@ -37,6 +39,7 @@ export default function Header() {
                         <a
                             href={socialLinks.anchorLink}
                             target="_blank"
+                            aria-label="Anchor"
                             className="transition-colors hover:text-magenta-500"
                         >
                             <HiLink />
