@@ -4,8 +4,8 @@ export default function Statcard({ icon, description, sub, ...props }) {
     return (
         <div className="rounded-lg overflow-hidden" {...props}>
             <div className="text-center pt-5">
-                <div className="inline-block transition-transform duration-200 hover:scale-125 xl:hover:scale-110 xxl:hover:scale-110">
-                    <Image src={icon} alt={sub} width={90} height={90} quality={100} />
+                <div className="inline-block transition-transform duration-200 hover:scale-125 xl:hover:scale-110 xxl:hover:scale-110 lg:max-w-[5rem] xl:max-w-[10rem]">
+                    <Image src={icon} alt={sub} width={100} height={100} quality={100} />
                 </div>
             </div>
             <div className="md:p-3 lg:p-3 pt-3 xxl:pt-8 text-center mb-12 xl:mb-6 xxl:mb-4 bg-black-100">

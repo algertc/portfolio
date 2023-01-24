@@ -10,7 +10,7 @@ export default function Hero() {
                 <img
                     src={introduction.avatar.src}
                     alt={introduction.avatar.alt}
-                    width={560}
+                    width={1060}
                     height={560}
                     // quality={100}
                     className="sm:max-w-[320px] md:max-w-[450px] lg:max-w-[560px] xl:max-w-[62rem] xxl:max-w-[80rem] xxl:pl-24 mx-auto md:mx-0 lg:mx-auto xl:mx-10"
