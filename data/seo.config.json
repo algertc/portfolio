@@ -31,11 +31,12 @@
         "type": "Person",
         "name": "Charlie Algert",
         "url": "http://charliealgert.com",
-        "image": "http://charliealgert.com/Portrait.png",
+        "image": "http://charliealgert.com/Portrait2.png",
         "sameAs": [
             "http://charliealgert.com",
             "http://linkedin.com/in/charliealgert",
-            "http://github.com/algertc"
+            "http://github.com/algertc",
+            "http://charliealgert.com/Portrait.png"
         ]
     }
 }
