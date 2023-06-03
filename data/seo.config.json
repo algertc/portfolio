@@ -3,9 +3,6 @@
         "title": "Charlie Algert | Personal Website",
         "description": "Charlie Algert Media Portfolio Link Library and Publications built with React.js",
         "canonical": "https://charliealgert.com",
-        "robotsProps": {
-            "nosnippet": true
-        },
 
         "openGraph": {
             "title": "Charlie Algert | Personal Website",
