@@ -12,7 +12,7 @@ export default function Statcard({ icon, description, sub, ...props }) {
                 <h1 className="text-2xl md:text-3xl lg:text-3xl xxl:text-4xl xxl:mb-[0.2rem] w-full text-transparent bg-clip-text font-extrabold bg-m2-200">
                     {description}
                 </h1>
-                <p className="font-display text-sm xxl:text-[1.2rem] w-full text-center">{sub}</p>
+                <p className="font-display text-sm xxl:text-[1.2rem] w-full text-center pt-1">{sub}</p>
             </div>
         </div>
     )

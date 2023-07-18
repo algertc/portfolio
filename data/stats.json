@@ -1,32 +1,22 @@
 [
     {
-        "icon": "/globe1.png",
-        "description": "2.2K",
-        "sub": "Edits"
+        "icon": "/Tax_and_Accounting.png",
+        "description": "Tax and Accounting",
+        "sub": "Studying @ Cal Poly SLO"
     },
     {
-        "icon": "/stack.png",
-        "description": "52",
-        "sub": "Answers"
+        "icon": "/AWS_SAA_Badge.png",
+        "description": "Solutions Architect",
+        "sub": "AWS Associate"
     },
     {
-        "icon": "/git.png",
-        "description": "54",
-        "sub": "Stars"
-    },
-    {
-        "icon": "/reddit.png",
-        "description": "1.3K",
-        "sub": "Karma"
+        "icon": "/GCP_DE_Badge.png",
+        "description": "Data Engineer Professional",
+        "sub": "GCP (In Progress)"
     },
     {
         "icon": "/fcc2.png",
-        "description": "Technician",
+        "description": "HAM Technician",
         "sub": "FCC"
-    },
-    {
-        "icon": "/ccna.png",
-        "description": "Associate",
-        "sub": "In Progress"
     }
 ]
