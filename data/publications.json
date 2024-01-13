@@ -5,7 +5,16 @@
         "description": "",
         "image": {
             "src": "/publication.png",
-            "alt": "My publication"
+            "alt": "Acquisition and Discrimination of Language in Simultaneous-Bilingual Infants"
+        }
+    },
+    {
+        "link": "/attendanceActivism",
+        "title": "AUHSD Attendance Policy Revisions",
+        "description": "",
+        "image": {
+            "src": "/schools.png",
+            "alt": "My Publication"
         }
     }
 ]

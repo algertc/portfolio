@@ -1,0 +1,20 @@
+[
+    {
+        "link": "https://research.charliealgert.com/ucp/UCP.pdf",
+        "title": "Uniform Complaint",
+        "description": "",
+        "image": {
+            "src": "/ucp.png",
+            "alt": "Acquisition and Discrimination of Language in Simultaneous-Bilingual Infants"
+        }
+    },
+    {
+        "link": "https://research.charliealgert.com/ucp/Response.pdf",
+        "title": "AUHSD Response",
+        "description": "",
+        "image": {
+            "src": "/response.png",
+            "alt": "My Publication"
+        }
+    }
+]
