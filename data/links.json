@@ -1,0 +1,56 @@
+[
+    {
+        "link": "https://linkedin.com/in/charliealgert",
+        "title": "Linkedin",
+        "description": "Professional Background",
+        "image": {
+            "src": "/linked.jpg",
+            "alt": "Linkedin"
+        }
+    },
+    {
+        "link": "https://github.com/algertc",
+        "title": "Github",
+        "description": "All my open-source projects",
+        "image": {
+            "src": "/github.png",
+            "alt": "github"
+        }
+    },
+    {
+        "link": "https://www.polygence.org/scholars/charlie-algert",
+        "title": "Research",
+        "description": "Polygence Scholar Profile",
+        "image": {
+            "src": "/polygence.png",
+            "alt": "Polygence"
+        }
+    },
+    {
+        "link": "https://metrics.torproject.org/rs.html#details/5D410EB085D4A8FBA22305FBA8DC19B71D9387FC",
+        "title": "Tor Atlas",
+        "description": "View My Relay Stats",
+        "image": {
+            "src": "/tor.png",
+            "alt": "Tor"
+        }
+    },
+    {
+        "link": "https://greekflow.com",
+        "title": "GreekFlow",
+        "description": "Revolutionized Greek Life",
+        "image": {
+            "src": "/greekflow.png",
+            "alt": "greekflow"
+        }
+    },
+    {
+        "link": "https://medium.com/@charliealgert",
+        "title": "Medium Author",
+        "description": "View My Articles",
+        "image": {
+            "src": "/medium.png",
+            "alt": "medium"
+        }
+    }
+]

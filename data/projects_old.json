@@ -1,0 +1,83 @@
+[
+    {
+        "link": "https://linkedin.com/in/charliealgert",
+        "title": "Linkedin",
+        "description": "Professional Background",
+        "image": {
+            "src": "/linked.jpg",
+            "alt": "Linkedin"
+        }
+    },
+    {
+        "link": "https://github.com/algertc",
+        "title": "Github",
+        "description": "All my open-source projects",
+        "image": {
+            "src": "/github.png",
+            "alt": "github"
+        }
+    },
+    {
+        "link": "https://www.polygence.org/scholars/charlie-algert",
+        "title": "Research",
+        "description": "Polygence Scholar Profile",
+        "image": {
+            "src": "/polygence.png",
+            "alt": "Polygence"
+        }
+    },
+    {
+        "link": "https://metrics.torproject.org/rs.html#details/5D410EB085D4A8FBA22305FBA8DC19B71D9387FC",
+        "title": "Tor Atlas",
+        "description": "View My Relay Stats",
+        "image": {
+            "src": "/tor.png",
+            "alt": "Tor"
+        }
+    },
+    {
+        "link": "https://shockpointmedia.com",
+        "title": "Shockpoint",
+        "description": "Check Out The Website",
+        "image": {
+            "src": "/shockpoint.png",
+            "alt": "Shockpoint"
+        }
+    },
+    {
+        "link": "https://medium.com/@charliealgert",
+        "title": "Medium Author",
+        "description": "View My Articles",
+        "image": {
+            "src": "/medium.png",
+            "alt": "medium"
+        }
+    },
+    {
+        "link": "https://www.kaggle.com/charliealgert",
+        "title": "Kaggle",
+        "description": "View My Notebooks",
+        "image": {
+            "src": "/kaggle.png",
+            "alt": "kaggle"
+        }
+    },
+    {
+        "link": "https://www.academia.edu/88081772/Acquisition_and_Discrimination_of_Language_in_Simultaneous_Bilingual_Infants",
+        "title": "Academia",
+        "description": "View My Publications",
+        "image": {
+            "src": "/academia.png",
+            "alt": "academia"
+        }
+    },
+    {
+        "link": "https://www.qrz.com/db/K6DBO/",
+        "title": "QRZ",
+        "description": "View My Logs",
+        "image": {
+            "src": "/qrz.png",
+            "alt": "qrz"
+        }
+    }
+]

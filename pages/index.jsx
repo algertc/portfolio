@@ -4,9 +4,10 @@ import Bar from '../components/sections/Bar'
 import Footer from '../components/sections/Footer'
 import Header from '../components/sections/Header'
 import Hero from '../components/sections/Hero'
-import Projects from '../components/sections/Projects'
+import Links from '../components/sections/Links'
 import Publications from '../components/sections/Publications'
 import Stats from '../components/sections/Stats'
+import Projects from '../components/sections/Projects'
 
 export default function App() {
     return (
@@ -16,6 +17,7 @@ export default function App() {
             <Header />
             <Hero />
             <Stats />
+            <Links />
             <Projects />
             <Publications />
             <Footer />

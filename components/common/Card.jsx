@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Card({ link, title, description, image, ...props }) {
     return (
-        <div className="relative max-w-[330px] md:max-w-none mx-auto rounded-lg overflow-hidden group" {...props}>
+        <div className="relative max-w-[330px] md:max-w-none xl:w-[30rem] mx-auto xl:mx-0 rounded-lg overflow-hidden group" {...props}>
             
             <div className="relative pb-[130%]"> 
                 <Image
